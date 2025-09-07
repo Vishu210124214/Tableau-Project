@@ -10,15 +10,15 @@ The dashboard provides an interactive way to monitor key business metrics such a
 The dataset contains sales and customer records (products, categories, regions, and customer details).
 It includes fields such as:
 
-⁕ Customer ID, Age, Gender, Marital Status
+ ⁕ Customer ID, Age, Gender, Marital Status
 
-⁕ Product Category, Sub-Category
+ ⁕ Product Category, Sub-Category
 
-⁕ Sales Amount, Profit, Quantity
+ ⁕ Sales Amount, Profit, Quantity
 
-⁕ Region, State, City
+ ⁕ Region, State, City
 
-⁕ Data source: Kaggle
+ ⁕ Data source: Kaggle
 
 📈 Dashboard Features
 
