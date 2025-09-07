@@ -1,6 +1,7 @@
 📊 Sales & Customer Dashboard
 
-📌 Project Overview
+📌 Project Overview:
+
 This project focuses on analyzing sales performance and customer behavior using Tableau.
 The dashboard provides an interactive way to monitor key business metrics such as sales, profit, and customer demographics, helping stakeholders make data-driven decisions.
 
