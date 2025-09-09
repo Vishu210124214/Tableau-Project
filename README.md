@@ -62,17 +62,22 @@ The Tableau dashboard is designed to be interactive and dynamic, allowing filter
   
   ⁕ Customer segmentation shows premium buyers are concentrated in urban regions.
 
+📸 Dashboard Preview
+
+<img width="1202" height="807" alt="image" src="https://github.com/user-attachments/assets/f9ff4f17-6917-43e3-b793-f593065ad69c" />
+
+
+🔗 Tableau Public Link
+
+  * https://public.tableau.com/app/profile/vishal.chauhan1092/viz/SalesCustomerDashboard_17574299419950/CustomerDashboard?publish=yes
 
 
 
 
 
-
-
-
-
-
-HR Analytics Dashboard
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+📁 HR Analytics Dashboard
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📊 Project Overview
 
