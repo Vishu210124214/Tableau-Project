@@ -61,3 +61,69 @@ The Tableau dashboard is designed to be interactive and dynamic, allowing filter
   ⁕ Seasonal patterns observed: certain categories peak in specific months.
   
   ⁕ Customer segmentation shows premium buyers are concentrated in urban regions.
+
+
+
+
+HR Analytics Dashboard
+
+📊 Project Overview
+
+This project is an HR Analytics Dashboard built in Tableau to analyze and visualize workforce data. The goal of the dashboard is to help HR managers and business leaders make data-driven decisions regarding employee performance, attrition, demographics, and workforce planning.
+
+🔍 Key Insights:
+
+* Employee demographics (age, gender, department, role distribution)
+
+* Attrition analysis (department-wise, age group-wise, job role-wise)
+
+* Salary and performance trends
+
+* Employee satisfaction and retention metrics
+
+* Workforce diversity and distribution
+
+⚙️ Tools & Technologies:
+
+* Tableau (for dashboard creation & visualization)
+
+* Excel / CSV datasets (as data source)
+
+📂 Project Files
+
+* HR Dashboard Project file.twbx → Tableau packaged workbook containing the dashboard
+
+🚀 How to Use
+
+* Download the .twbx file from this repository
+
+* Open the file in Tableau Desktop / Tableau Public
+
+* Explore interactive dashboards and visualizations
+
+📸 Dashboard Preview
+
+<img width="1422" height="837" alt="image" src="https://github.com/user-attachments/assets/e7d7b578-3afb-44c1-a025-e0b4a2e25486" />
+
+
+🏆 Learnings & Outcomes
+
+* Hands-on experience in HR Analytics using Tableau
+
+* Built interactive dashboards for decision-making
+
+* Applied skills in data visualization, storytelling, and HR domain analysis
+
+🔗 Tableau Public Link
+
+https://public.tableau.com/app/profile/vishal.chauhan1092/viz/HRDashboard_17573580118540/HRSummary?publish=yes
+
+👤 Author
+
+Vishal Chauhan
+
+💼 Aspiring Data Analyst
+
+📧 vishalchauhan78280@gmail.com
+
+
